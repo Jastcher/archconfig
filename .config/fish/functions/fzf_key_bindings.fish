@@ -1,0 +1,1 @@
+/home/jastcher/.fzf/shell/key-bindings.fish
